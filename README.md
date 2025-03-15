@@ -77,7 +77,7 @@ At CodTech IT Solutions, we provide a comprehensive suite of services designed t
 
 📈 Digital Marketing & Sales: Amplify your brand's reach and drive sales with our expert digital marketing strategies.
 
-🚀 <ins>Advanced IT Training:<ins/> Stay ahead of the curve with our industry-leading IT training programs, tailored to equip you with the skills you need.
+🚀 <ins>Advanced IT Training:<ins/>  Stay ahead of the curve with our industry-leading IT training programs, tailored to equip you with the skills you need.
 
 Choose CodTech IT Solutions for top-notch service and unparalleled expertise. Your success is our mission!
 

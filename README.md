@@ -23,13 +23,18 @@ and Java NIO (Paths & Files).
 
 # 🛠️ Tools and Technologies Used :
 ✅ Java (JDK 8 or later)
+
 ✅ BufferedReader & BufferedWriter for efficient I/O operations
+
 ✅ FileReader & FileWriter for file access
+
 ✅ NIO (Files and Paths) for modifying file content
 
 # Features :
 ✅ Write to File: Saves predefined content to a text file, ensuring the initial data is stored correctly.
+
 ✅ Read from File: Retrieves and displays the file’s contents to the console.
+
 ✅ Modify File: Allows users to modify specific text within the file by replacing existing content.
 
 # 🚀 Which Editor Used : *Eclipse*

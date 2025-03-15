@@ -39,7 +39,48 @@ and Java NIO (Paths & Files).
 
 # 🚀 Which Editor Used : *Eclipse*
 
-#OUT PUT OF PROGRAM
+# O/P OF PROGRAM :
+
+==> File written successfully.
+
+Reading File Content:
+--------------------------------------
+
+Welcome to CODTECH IT SOLUTIONS !
+
+🌟 Discover the Best with CodTech IT Solutions! 🌟
+
+At CodTech IT Solutions, we provide a comprehensive suite of services designed to elevate your digital experience and professional growth:
+
+✨Web & App Design with Maintenance: Transform your online presence with our cutting-edge design and reliable maintenance services.
+
+📈 Digital Marketing & Sales: Amplify your brand's reach and drive sales with our expert digital marketing strategies.
+
+🚀 IT Training: Stay ahead of the curve with our industry-leading IT training programs, tailored to equip you with the skills you need.
+
+Choose CodTech IT Solutions for top-notch service and unparalleled expertise. Your success is our mission!
+
+File modified successfully.
+
+File modified successfully.
+
+Reading File Content:
+--------------------------------------
+
+******** Welcome to CODTECH IT SOLUTIONS ! ********
+
+🌟 Discover the Best with CodTech IT Solutions! 🌟
+
+At CodTech IT Solutions, we provide a comprehensive suite of services designed to elevate your digital experience and professional growth:
+
+✨Web & App Design with Maintenance: Transform your online presence with our cutting-edge design and reliable maintenance services.
+
+📈 Digital Marketing & Sales: Amplify your brand's reach and drive sales with our expert digital marketing strategies.
+
+🚀 Advanced IT Training: Stay ahead of the curve with our industry-leading IT training programs, tailored to equip you with the skills you need.
+
+Choose CodTech IT Solutions for top-notch service and unparalleled expertise. Your success is our mission!
+
 
 
 

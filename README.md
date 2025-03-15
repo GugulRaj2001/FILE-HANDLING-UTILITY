@@ -46,18 +46,23 @@ and Java NIO (Paths & Files).
 # 1. Writing to a File:
 
 ==> Created a Java program that writes predefined content to a text file "(CodTech_IT_Solutions.txt)".
+
 ==> Used "BufferedWriter" and "FileWriter" to ensure efficient writing operations.
  
 # 2. Reading from a File:
 
 ==> Implemented a method to read and display the contents of the text file.
+
 ==> Used "BufferedReader" and "FileReader" for reading data efficiently.
+
 ==> Ensured that the program handles file not found and other exceptions gracefully.
 
 # 3. Modifying File Content:
 
 ==> Implemented a method that searches for a specific word or phrase and replaces it with new text.
+
 ==> Used Paths and Files."readAllBytes()" to read the file content into a string.
+
 ==> Applied "replace()" method to modify specific words and then wrote the updated content back to the file.
 
 

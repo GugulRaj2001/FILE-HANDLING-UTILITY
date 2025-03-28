@@ -1,4 +1,4 @@
-# FILE HANDLING UTILITY
+# 🏷️ FILE HANDLING UTILITY
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
@@ -22,32 +22,32 @@ By implementing this task, I have demonstrated my ability to work with file hand
 and Java NIO (Paths & Files).
 
 # 🛠️ Tools and Technologies Used:
-✅ Java (JDK 8 or later)
+     ✅ Java (JDK 8 or later)
 
-✅ BufferedReader & BufferedWriter for efficient I/O operations
+     ✅ BufferedReader & BufferedWriter for efficient I/O operations
 
-✅ FileReader & FileWriter for file access
+     ✅ FileReader & FileWriter for file access
 
-✅ NIO (Files and Paths) for modifying file content
+     ✅ NIO (Files and Paths) for modifying file content
 
 # 💡 Features:
-✅ Write to File: Saves predefined content to a text file, ensuring the initial data is stored correctly.
+     ✅ Write to File: Saves predefined content to a text file, ensuring the initial data is stored correctly.
 
-✅ Read from File: Retrieves and displays the file’s contents to the console.
+     ✅ Read from File: Retrieves and displays the file’s contents to the console.
 
-✅ Modify File: Allows users to modify specific text within the file by replacing existing content.
+     ✅ Modify File: Allows users to modify specific text within the file by replacing existing content.
 
-# 🚀 Which Editor Used: *Eclipse*
+## 🚀 Which Editor Used:          *Eclipse*
 
 # Task Execution:
 
-# 1. Writing to a File:
+### 1. Writing to a File:
 
 ==> Created a Java program that writes predefined content to a text file "(CodTech_IT_Solutions.txt)".
 
 ==> Used "BufferedWriter" and "FileWriter" to ensure efficient writing operations.
  
-# 2. Reading from a File:
+### 2. Reading from a File:
 
 ==> Implemented a method to read and display the contents of the text file.
 
@@ -55,7 +55,7 @@ and Java NIO (Paths & Files).
 
 ==> Ensured that the program handles file not found and other exceptions gracefully.
 
-# 3. Modifying File Content:
+### 3. Modifying File Content:
 
 ==> Implemented a method that searches for a specific word or phrase and replaces it with new text.
 
@@ -64,7 +64,7 @@ and Java NIO (Paths & Files).
 ==> Applied "replace()" method to modify specific words and then wrote the updated content back to the file.
 
 
-# O/P OF PROGRAM:
+# *O/P OF PROGRAM:*
 
 ==> File written successfully.
 

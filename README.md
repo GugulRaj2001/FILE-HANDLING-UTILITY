@@ -12,7 +12,7 @@
 
 *MENTOR*  : NEELA SANTHOSH KUMAR
 
-# TASK DESCRIPTION:
+# 📋 TASK DESCRIPTION:
 *Overview of the Task* :
 As part of my internship, I was assigned the task of developing a Java-based file handling utility that performs essential file operations,
 including reading, writing, and modifying text files. The goal of this task was to create a simple yet efficient Java program that can manipulate text files using standard Java I/O techniques.
@@ -30,16 +30,14 @@ and Java NIO (Paths & Files).
 
 ✅ NIO (Files and Paths) for modifying file content
 
-# Features:
+# 💡 Features:
 ✅ Write to File: Saves predefined content to a text file, ensuring the initial data is stored correctly.
 
 ✅ Read from File: Retrieves and displays the file’s contents to the console.
 
 ✅ Modify File: Allows users to modify specific text within the file by replacing existing content.
 
-# 🚀 Which Editor Used: 
-
-*Eclipse*
+# 🚀 Which Editor Used: *Eclipse*
 
 # Task Execution:
 
